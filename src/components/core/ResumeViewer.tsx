@@ -28,8 +28,8 @@ const ResumeViewer: React.FC<ResumeViewerProps> = ({ isOpen, onClose }) => {
   const handleDownload = (e: React.MouseEvent) => {
     e.stopPropagation();
     const link = document.createElement('a');
-    link.href = '/CharlesLofflerResume.pdf';
-    link.setAttribute('download', 'CharlesLofflerResume.pdf');
+    link.href = '/GeyzerMatos.pdf';
+    link.setAttribute('download', 'GeyzerMatos.pdf');
     document.body.appendChild(link);
     link.click();
     document.body.removeChild(link);
