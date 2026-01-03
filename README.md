@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://portforlio-i212b24ca-geyzer-matos.vercel.app/" target="_blank">
-    <img src="https://raw.githubusercontent.com/zainnextdev/MyPortfolio/main/public/og-image.png" alt="Geyzer Matos Portfolio Banner" />
+    <img src="https://drive.google.com/file/d/1ejFFGNq58bqUg6GZuJeWwBI7nnzaKDxC/view?usp=sharing" alt="Geyzer Matos Portfolio Banner" />
   </a>
 </p>
 
