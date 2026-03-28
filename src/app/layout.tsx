@@ -59,7 +59,7 @@ const jsonLd = {
   '@type': 'Person',
   name: 'Austin Lance',
   url: liveUrl,
-  image: `${liveUrl}/zain-khalid-portrait.png`, 
+  image: `${liveUrl}/dfgdg.png`, 
   jobTitle: 'Full-Stack Architect & Next.js Specialist',
   worksFor: {
     '@type': 'Organization',
