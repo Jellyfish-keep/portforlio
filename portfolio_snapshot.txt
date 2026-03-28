@@ -155,7 +155,6 @@ module.exports = {
 │   │   ├── typescript.png
 │   │   └── vercel.png
 │   ├── next.svg
-│   ├── og-image.png
 │   ├── projects
 │   │   ├── admin-portal-display.png
 │   │   ├── ajcollections-display.png
