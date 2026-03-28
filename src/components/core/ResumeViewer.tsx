@@ -28,8 +28,8 @@ const ResumeViewer: React.FC<ResumeViewerProps> = ({ isOpen, onClose }) => {
   const handleDownload = (e: React.MouseEvent) => {
     e.stopPropagation();
     const link = document.createElement('a');
-    link.href = '/GeyzerMatos.pdf';
-    link.setAttribute('download', 'GeyzerMatos.pdf');
+    link.href = '/AustinLanceResume.pdf';
+    link.setAttribute('download', 'AustinLance.pdf');
     document.body.appendChild(link);
     link.click();
     document.body.removeChild(link);
@@ -148,7 +148,7 @@ const ResumeViewer: React.FC<ResumeViewerProps> = ({ isOpen, onClose }) => {
           ref={el => {uiElementsRef.current[0] = el}}
           className="flex-shrink-0 flex justify-between items-center px-6 py-4 border-b border-secondary/10"
         >
-          <h3 className="text-lg font-semibold text-primary tracking-wider">Geyzer Matos - Resume</h3>
+          <h3 className="text-lg font-semibold text-primary tracking-wider">Austin - Resume</h3>
           <div className="flex items-center gap-2">
             <button onClick={handleDownload} className="group flex items-center gap-2 px-3 py-2 text-sm text-secondary hover:text-primary bg-surface/50 rounded-md border border-secondary/20 transition-colors duration-300" data-cursor-hover>
               <Download size={16} /> <span>Download PDF</span>
@@ -172,7 +172,7 @@ const ResumeViewer: React.FC<ResumeViewerProps> = ({ isOpen, onClose }) => {
             ref={imageContainerRef}
             className={`w-full h-full ${isPanning ? 'cursor-grabbing' : 'cursor-grab'}`}
             style={{
-              backgroundImage: `url('/Charles-resume.png')`,
+              backgroundImage: `url('/Screenshot_74.png')`,
               backgroundSize: 'contain',
               backgroundRepeat: 'no-repeat',
               backgroundPosition: 'center',
