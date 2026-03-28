@@ -46,8 +46,8 @@ const commandItems: CommandGroup[] = [
   { section: 'Actions', items: [
     // --- Step 3: Update the command's action from 'link' to 'resume' ---
     { label: 'View Resume', action: { type: 'resume' }, icon: <FileText size={20} /> },
-    { label: 'Send Email', action: { type: 'link', payload: 'mailto:zain.nextdev@gmail.com' }, icon: <Mail size={20} /> },
-    { label: 'Text Me', action: { type: 'link', payload: 'https://wa.me/923236748502' }, icon: <Phone size={20} /> },
+    { label: 'Send Email', action: { type: 'link', payload: 'mailto:lancerider42@gmail.com' }, icon: <Mail size={20} /> },
+    { label: 'Text Me', action: { type: 'link', payload: '#' }, icon: <Phone size={20} /> },
   ]},
   { section: 'Change Theme', items: [
       { label: 'Set Theme: Obsidian', action: { type: 'theme', payload: 'obsidian' }, icon: <Brush size={20} /> },
