@@ -99,8 +99,8 @@ export default function Contact() {
             <div className="contact-content-reveal">
               <h3 className="text-3xl font-bold tracking-tight text-primary mb-4">Contact Info</h3>
               <div className="p-6 bg-surface/50 backdrop-blur-lg border border-secondary/10 rounded-lg space-y-6">
-                 <a href="mailto:zain.nextdev@gmail.com" className="group flex items-center gap-4 text-secondary hover:text-primary transition-colors duration-300" data-cursor-hover><Mail className="group-hover:text-accent transition-colors flex-shrink-0" size={24} /><span>geyzermatos1981@outlook.com</span></a>
-                 <a href="https://wa.me/12398490415" target="_blank" rel="noopener noreferrer" className="group flex items-center gap-4 text-secondary hover:text-primary transition-colors duration-300" data-cursor-hover><Phone className="group-hover:text-accent transition-colors flex-shrink-0" size={24} /><span>+1 239 849 0415</span></a>
+                 <a href="mailto:zain.nextdev@gmail.com" className="group flex items-center gap-4 text-secondary hover:text-primary transition-colors duration-300" data-cursor-hover><Mail className="group-hover:text-accent transition-colors flex-shrink-0" size={24} /><span>lancerider42@gmail.com</span></a>
+                 <a href="https://wa.me/12398490415" target="_blank" rel="noopener noreferrer" className="group flex items-center gap-4 text-secondary hover:text-primary transition-colors duration-300" data-cursor-hover><Phone className="group-hover:text-accent transition-colors flex-shrink-0" size={24} /><span>+1 8053959028</span></a>
               </div>
             </div>
             <div className="contact-content-reveal">
