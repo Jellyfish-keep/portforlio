@@ -91,14 +91,14 @@ useEffect(() => {
       <div className="flex items-center justify-between w-full">
         {/* --- Left Side: Brand Identity --- */}
         <div className="flex items-center gap-4">
-          <a href="#hero" className="font-black text-xl tracking-wider text-primary" data-cursor-hover>GM</a>
+          <a href="#hero" className="font-black text-xl tracking-wider text-primary" data-cursor-hover>AL</a>
           <div className="w-px h-6 bg-secondary/20" />
           <div className="flex items-center gap-2">
             <div className="relative flex items-center justify-center w-3 h-3" aria-label="Online Status">
               <span className="absolute w-full h-full bg-accent rounded-full animate-ping opacity-75"></span>
               <span className="relative w-1.5 h-1.5 bg-accent rounded-full"></span>
             </div>
-            <p className="text-sm text-secondary tracking-widest">AVAILABLE / New Jersey, United States</p>
+            <p className="text-sm text-secondary tracking-widest">AVAILABLE / Jacksonville, Florida, United States</p>
           </div>
         </div>
 
