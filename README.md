@@ -1,25 +1,16 @@
-# Geyzer Matos - Full-Stack Portfolio (MyPortfolio)
+# Austin Lance - Software Engineer Portfolio (MyPortfolio)
 
 <p align="center">
-  <a href="https://portforlio-i212b24ca-geyzer-matos.vercel.app/" target="_blank">
-    <img src="https://drive.google.com/file/d/1ejFFGNq58bqUg6GZuJeWwBI7nnzaKDxC/view?usp=sharing" alt="Geyzer Matos Portfolio Banner" />
-  </a>
 </p>
 
 <p align="center">
   <!-- Vercel Deployment Badge -->
-  <a href="https://portforlio-i212b24ca-geyzer-matos.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Status-Deployed%20on%20Vercel-black?style=for-the-badge&logo=vercel" alt="Deployment Status" />
-  </a>
   <!-- License Badge -->
-  <a href="#/MyPortfolio/blob/main/LICENSE" target="_blank">
-    <img src="https://img.shields.io/github/license/zainnextdev/MyPortfolio?style=for-the-badge&color=00F5D4" alt="License" />
-  </a>
 </p>
 
 This repository contains the source code for my personal portfolio. It's an immersive showcase of modern web architecture and interactive design, built from the ground up with a focus on elite performance, stunning visuals, and a fluid user experience.
 
-**Live Site:** [**https://portforlio-i212b24ca-geyzer-matos.vercel.app/**](https://portforlio-i212b24ca-geyzer-matos.vercel.app/)
+**Live Site:** [**https://portforlio-52lc.vercel.app/**]
 
 ---
 
