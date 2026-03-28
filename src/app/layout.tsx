@@ -25,15 +25,15 @@ const liveUrl = "https://zainkhalid.vercel.app";
 export const metadata: Metadata = {
   title: {
     default: "Austin Lance | Senior AI - Software Engineer",
-    template: "%s | Zain Khalid",
+    template: "%s | Austin Lance",
   },
-  description: "The official portfolio of Zain Khalid, a full-stack architect from Lahore, Pakistan, specializing in building high-performance, visually stunning web experiences with the Next.js and Vercel ecosystem.",
+  description: "The official portfolio of Austin Lance, a full-stack architect from Lahore, Pakistan, specializing in building high-performance, visually stunning web experiences with the Next.js and Vercel ecosystem.",
   verification: {
     google: 'HwbZ9SEhNLkYaoxLskIGB11QX6tvZ5Ob3PawkTqGkLU',
   },
   metadataBase: new URL(liveUrl),
   // ... rest of metadata object is unchanged and correct
-  keywords: ["Zain Khalid", "Full-Stack Developer", "Next.js Developer", "React Developer", "TypeScript", "Vercel", "Portfolio", "Web Developer Pakistan", "Lahore Developer", "Three.js", "GSAP"],
+  keywords: ["Austin Lance", "Full-Stack Developer", "Next.js Developer", "React Developer", "TypeScript", "Vercel", "Portfolio", "Web Developer Pakistan", "Lahore Developer", "Three.js", "GSAP"],
   authors: [{ name: "Austin Lance", url: liveUrl }],
   creator: "Austin Lance",
   alternates: {
@@ -51,17 +51,17 @@ export const metadata: Metadata = {
     },
   },
   openGraph: {
-    title: "Zain Khalid | Full-Stack Architect & Next.js Specialist",
+    title: "Austin Lance | Full-Stack Architect & Next.js Specialist",
     description: "Architecting high-performance, visually stunning web experiences.",
     url: liveUrl,
-    siteName: "Zain Khalid",
-    images: [{ url: `${liveUrl}/og-image.png`, width: 1200, height: 630, alt: "Zain Khalid Portfolio", }],
+    siteName: "Austin Lance",
+    images: [{ url: `${liveUrl}/og-image.png`, width: 1200, height: 630, alt: "Austin Lance Portfolio", }],
     locale: 'en_US',
     type: 'website',
   },
   twitter: {
     card: 'summary_large_image',
-    title: "Zain Khalid | Full-Stack Architect & Next.js Specialist",
+    title: "Austin Lance | Full-Stack Architect & Next.js Specialist",
     description: "Architecting high-performance, visually stunning web experiences.",
     creator: "@zain_nextdev",
     images: [`${liveUrl}/og-image.png`],
