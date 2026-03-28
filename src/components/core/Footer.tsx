@@ -10,9 +10,9 @@ gsap.registerPlugin(ScrollTrigger);
 
 // --- MODIFIED: Twitter has been removed ---
 const socialLinks = [
-  { href: '#', label: 'GitHub', icon: <FaGithub size={18} /> },
-  { href: 'https://www.linkedin.com/in/geyzer-m-5ab8601b4', label: 'LinkedIn', icon: <FaLinkedinIn size={18} /> },
-  { href: '#', label: 'Discord', icon: <FaDiscord size={18} /> },
+  { href: 'https://github.com/Jellyfish-keep', label: 'GitHub', icon: <FaGithub size={18} /> },
+  { href: 'https://www.linkedin.com/in/austin-lance-995a523a7/', label: 'LinkedIn', icon: <FaLinkedinIn size={18} /> },
+  { href: 'https://discord.com/channels/@me/1481965527206465559', label: 'Discord', icon: <FaDiscord size={18} /> },
   { href: '#', label: 'Instagram', icon: <FaInstagram size={18} /> },
 ];
 
