@@ -50,22 +50,6 @@ export const metadata: Metadata = {
       'max-snippet': -1,
     },
   },
-  openGraph: {
-    title: "Austin Lance | Full-Stack Architect & Next.js Specialist",
-    description: "Architecting high-performance, visually stunning web experiences.",
-    url: liveUrl,
-    siteName: "Austin Lance",
-    images: [{ url: `${liveUrl}/oimage.png`, width: 1200, height: 630, alt: "Austin Lance Portfolio", }],
-    locale: 'en_US',
-    type: 'website',
-  },
-  twitter: {
-    card: 'summary_large_image',
-    title: "Austin Lance | Full-Stack Architect & Next.js Specialist",
-    description: "Architecting high-performance, visually stunning web experiences.",
-    creator: "@zain_nextdev",
-    images: [`${liveUrl}/oimage.png`],
-  },
   icons: { icon: '/favicon.ico', shortcut: '/favicon-16x16.png', apple: '/apple-touch-icon.png', },
   manifest: `${liveUrl}/site.webmanifest`,
 };
