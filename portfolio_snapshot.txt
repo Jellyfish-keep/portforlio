@@ -810,7 +810,7 @@ import ClientEffectsWrapper from "@/components/core/ClientEffectsWrapper";
 
 const inter = Inter({ subsets: ["latin"] });
 
-const liveUrl = "https://zainkhalid.vercel.app";
+const liveUrl = "https://portforlio-52lc.vercel.app/";
 
 // --- Metadata remains unchanged, it is already well-configured ---
 export const metadata: Metadata = {
