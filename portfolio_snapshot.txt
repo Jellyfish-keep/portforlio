@@ -421,7 +421,6 @@ module.exports = {
 
 <p align="center">
   <a href="https://portforlio-52lc.vercel.app/" target="_blank">
-    <img src="https://raw.githubusercontent.com/zainnextdev/MyPortfolio/main/public/og-image.png" alt="Geyzer Matos Portfolio Banner" />
   </a>
 </p>
 
@@ -809,7 +808,7 @@ import ClientEffectsWrapper from "@/components/core/ClientEffectsWrapper";
 
 const inter = Inter({ subsets: ["latin"] });
 
-const liveUrl = "https://portforlio-52lc.vercel.app/";
+const liveUrl = "https://portforlio-52ldffdsec.vercel.app/";
 
 // --- Metadata remains unchanged, it is already well-configured ---
 export const metadata: Metadata = {
@@ -2760,7 +2759,7 @@ const ResumeViewer: React.FC<ResumeViewerProps> = ({ isOpen, onClose }) => {
             ref={imageContainerRef}
             className={`w-full h-full ${isPanning ? 'cursor-grabbing' : 'cursor-grab'}`}
             style={{
-              backgroundImage: `url('/zain-khalid-resume.png')`,
+              backgroundImage: `url('/e.png')`,
               backgroundSize: 'contain',
               backgroundRepeat: 'no-repeat',
               backgroundPosition: 'center',
@@ -4307,8 +4306,8 @@ export const projectsData = [
       "Vercel",
       "Cloudinary",
     ],
-    image: "/projects/genius-mart-display.png",
-    liveSiteUrl: "https://geniusmart.vercel.app/",
+    image: "/projects/gens-y.png",
+    liveSiteUrl: "https:/ar.vercel.app/",
   },
   {
     id: 2,
@@ -4331,7 +4330,7 @@ export const projectsData = [
       "Ant Design 5",
       "Zustand",
     ],
-    image: "/projects/admin-portal-display.png",
+    image: "/prosplay.png",
     // No live site URL for admin portals
   },
   {
@@ -4355,8 +4354,8 @@ export const projectsData = [
       "Supabase Auth",
       "Supabase Storage",
     ],
-    image: "/projects/ajcollections-display.png",
-    liveSiteUrl: "https://ajcollections.vercel.app/",
+    image: "/projeisplay.png",
+    liveSiteUrl: "https://ajcols.vercel.app/",
   },
 ];
 
