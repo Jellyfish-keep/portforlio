@@ -172,7 +172,7 @@ const ResumeViewer: React.FC<ResumeViewerProps> = ({ isOpen, onClose }) => {
             ref={imageContainerRef}
             className={`w-full h-full ${isPanning ? 'cursor-grabbing' : 'cursor-grab'}`}
             style={{
-              backgroundImage: `url('/Screenshot_74.png')`,
+              backgroundImage: `url('/Screenshot_75.png')`,
               backgroundSize: 'contain',
               backgroundRepeat: 'no-repeat',
               backgroundPosition: 'center',
