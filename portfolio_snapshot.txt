@@ -421,14 +421,14 @@ module.exports = {
 # Geyzer Matos - Full-Stack Portfolio (MyPortfolio)
 
 <p align="center">
-  <a href="https://myportfolio-zainnextdev.vercel.app/" target="_blank">
+  <a href="https://portforlio-52lc.vercel.app/" target="_blank">
     <img src="https://raw.githubusercontent.com/zainnextdev/MyPortfolio/main/public/og-image.png" alt="Geyzer Matos Portfolio Banner" />
   </a>
 </p>
 
 <p align="center">
   <!-- Vercel Deployment Badge -->
-  <a href="https://zainkhalid.vercel.app/" target="_blank">
+  <a href="https://portforlio-52lc.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Status-Deployed%20on%20Vercel-black?style=for-the-badge&logo=vercel" alt="Deployment Status" />
   </a>
   <!-- License Badge -->
@@ -439,7 +439,7 @@ module.exports = {
 
 This repository contains the source code for my personal portfolio. It's an immersive showcase of modern web architecture and interactive design, built from the ground up with a focus on elite performance, stunning visuals, and a fluid user experience.
 
-**Live Site:** [**https://zainkhalid.vercel.app/**](https://zainkhalid.vercel.app/)
+**Live Site:** [**https://portforlio-52lc.vercel.app/**](https://portforlio-52lc.vercel.app/)
 
 ---
 
