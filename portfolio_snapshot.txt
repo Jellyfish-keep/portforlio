@@ -840,22 +840,6 @@ export const metadata: Metadata = {
       'max-snippet': -1,
     },
   },
-  openGraph: {
-    title: "Geyzer Matos | Full-Stack Architect & Next.js Specialist",
-    description: "Architecting high-performance, visually stunning web experiences.",
-    url: liveUrl,
-    siteName: "Geyzer Matos",
-    images: [{ url: `${liveUrl}/og-image.png`, width: 1200, height: 630, alt: "Geyzer Matos Portfolio", }],
-    locale: 'en_US',
-    type: 'website',
-  },
-  twitter: {
-    card: 'summary_large_image',
-    title: "Geyzer Matos | Full-Stack Architect & Next.js Specialist",
-    description: "Architecting high-performance, visually stunning web experiences.",
-    creator: "@zain_nextdev",
-    images: [`${liveUrl}/og-image.png`],
-  },
   icons: { icon: '/favicon.ico', shortcut: '/favicon-16x16.png', apple: '/apple-touch-icon.png', },
   manifest: `${liveUrl}/site.webmanifest`,
 };
@@ -865,7 +849,7 @@ const jsonLd = {
   '@type': 'Person',
   name: 'Geyzer Matos',
   url: liveUrl,
-  image: `${liveUrl}/zain-khalid-portrait.png`, 
+  image: `${liveUrl}/dsfg.png`, 
   jobTitle: 'Full-Stack Architect & Next.js Specialist',
   worksFor: {
     '@type': 'Organization',
@@ -877,7 +861,6 @@ const jsonLd = {
   ],
   sameAs: [
     '#',
-    'https://www.linkedin.com/in/zain-khalid-b91873318/',
   ],
   knowsAbout: [ "Next.js", "React.js", "TypeScript", "PostgreSQL", "Supabase", "Vercel", "System Architecture", "UI/UX Design", "SEO", "Three.js", "GSAP" ],
   address: {
