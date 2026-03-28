@@ -27,7 +27,7 @@ const Hero = () => {
 
   const isWebKit = useIsWebKit();
 
-  const nameText = "Geyzer Matos";
+  const nameText = "Austin Lance";
   const titleText = "Senior Software Developer";
 
   // The orchestrated timeline is correct and remains unchanged.
