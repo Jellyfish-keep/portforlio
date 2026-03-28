@@ -24,7 +24,7 @@ const liveUrl = "https://zainkhalid.vercel.app";
 // --- Metadata remains unchanged, it is already well-configured ---
 export const metadata: Metadata = {
   title: {
-    default: "Geyzer Matos | Senior software developer",
+    default: "Austin Lance | Senior AI - Software Engineer",
     template: "%s | Zain Khalid",
   },
   description: "The official portfolio of Zain Khalid, a full-stack architect from Lahore, Pakistan, specializing in building high-performance, visually stunning web experiences with the Next.js and Vercel ecosystem.",
@@ -34,8 +34,8 @@ export const metadata: Metadata = {
   metadataBase: new URL(liveUrl),
   // ... rest of metadata object is unchanged and correct
   keywords: ["Zain Khalid", "Full-Stack Developer", "Next.js Developer", "React Developer", "TypeScript", "Vercel", "Portfolio", "Web Developer Pakistan", "Lahore Developer", "Three.js", "GSAP"],
-  authors: [{ name: "Zain Khalid", url: liveUrl }],
-  creator: "Zain Khalid",
+  authors: [{ name: "Austin Lance", url: liveUrl }],
+  creator: "Austin Lance",
   alternates: {
     canonical: '/',
   },
@@ -73,7 +73,7 @@ export const metadata: Metadata = {
 const jsonLd = {
   '@context': 'https://schema.org',
   '@type': 'Person',
-  name: 'Zain Khalid',
+  name: 'Austin Lance',
   url: liveUrl,
   image: `${liveUrl}/zain-khalid-portrait.png`, 
   jobTitle: 'Full-Stack Architect & Next.js Specialist',
