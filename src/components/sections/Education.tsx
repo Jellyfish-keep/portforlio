@@ -10,9 +10,9 @@ gsap.registerPlugin(ScrollTrigger);
 const educationData = [
   {
     id: 1,
-    degree: 'Bachelor of Science in Computer Science',
-    institution: 'Montclair State University',
-    duration: '2014 - 2018',
+    degree: 'Bachelor of Degree',
+    institution: 'University of South Florida',
+    duration: '2010 - 2014',
     description: 'Completed coursework in software development and IT, including programming, databases, and web technologies. Gained hands-on experience with Python, JavaScript, SQL, and backend development projects. Built practical skills in API integration, problem-solving, and modern software engineering practices.',
     icon: <Award size={28} />,
   },
